@@ -1,1 +1,31 @@
+NAME OF THE STUDENT: KONKA VISHNUPRIYA
+LEARNING TRACK: ADMINISTRATOR
+PROJECT NAME : Garage-management-system
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/yg68txw4xzeqf1gmxe
+DEVELOPER ORG USERNAME : konkavishnupriya@gdcproject.com
+DEVELOPER ORG PASSWORD : Gayatri@123
+POSITION : Team Leader
 
+NAME OF THE STUDENT: Jangam Srikanya
+LEARNING TRACK: Developer
+PROJECT NAME : Garage-management-system
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/srikanyajangam
+DEVELOPER ORG USERNAME : jangamsrikanyaproject@gmail.com
+DEVELOPER ORG PASSWORD : Gayatri@123
+POSITION : Team Member
+
+NAME OF THE STUDENT: Middinti Vaishnavi
+LEARNING TRACK: ADMINISTRATOR
+PROJECT NAME : Garage-management-system
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/mv9ugi9mv4u5ailaws
+DEVELOPER ORG USERNAME : vaishnavi@gdcproject.com
+DEVELOPER ORG PASSWORD : gayatri@123
+POSITION : Team Member
+
+NAME OF THE STUDENT: GOLLAMARRI CHANDHANA
+LEARNING TRACK: ADMINISTRATOR
+PROJECT NAME : Garage-management-system
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/gnr7x3o38n9jw2berv
+DEVELOPER ORG USERNAME : chandana@gdcproject.com
+DEVELOPER ORG PASSWORD : gayatri@123
+POSITION : Team Member
